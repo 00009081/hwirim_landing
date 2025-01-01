@@ -489,15 +489,6 @@ a.quick-btn-m_call-image-wrap{
     float: left;
     width: 60%;
 }
-/* .story_i-b_02{
-    background: url(../images/story/story_speechballoon2.png) no-repeat center center;
-    height: 100%;
-    width: 23%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    background-size: contain;
-} */
 .story_i-b_02{
     background-color: #ffffff90;
     height: 50%;
@@ -518,15 +509,6 @@ a.quick-btn-m_call-image-wrap{
     margin-left: 5vw;
     width: 60%;
 }
-/* .story_i-b_05{
-    background: url(../images/story/story_speechballoon5.png) no-repeat center bottom;
-    height: 100%;
-    width: 30%;
-    position: absolute;
-    bottom: 0vw;
-    left: 0vw;
-    background-size: contain;
-} */
 .story_i-b_05{
     background-color: #ffffff90;
     height: 60%;
