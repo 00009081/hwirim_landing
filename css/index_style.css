@@ -178,7 +178,8 @@ body{
     width: 100%;
 }
 a.more_link:hover{
-    background-color: #fff;
+    background-color: #142946;
+    color: #fff;
 }
 
 /*mobile_~767px*/
@@ -363,7 +364,7 @@ a.quick-btn-m_call-image-wrap{
     font-size: clamp(25px,3vw,30px);
     color: #2f84fa;
     font-weight: 600;
-    letter-spacing: -0.15vw;
+    /* letter-spacing: -0.15vw; */
 }
 .gnb-mobile_call{
     display: none;
@@ -542,7 +543,7 @@ a.quick-btn-m_call-image-wrap{
 .story_text{
     clear: both;
     font-size: clamp(16px, 1vw, 14px);
-    letter-spacing: -0.1vw;
+    letter-spacing: -0.05vw;
     text-align: center;
     color: #fff;
     padding: 2vw 0;
@@ -1645,7 +1646,7 @@ ul.research_radius_image li img{
     font-weight: bold;
     color: #ffffff14;
     font-size: clamp(150px, 20vw, 300px);
-    letter-spacing: 0vw;
+    letter-spacing: 1vw;
     margin-left: 5vw;
 }
 
