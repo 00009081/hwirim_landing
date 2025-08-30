@@ -711,6 +711,7 @@ ul.hand_printing_slide li{
 }
 .hand-printing_list_image{
     overflow: hidden;
+    border-radius: 10px;
 }
 .hand-printing_list_text{
     font-size: clamp(10px, 2vw, 16px);
