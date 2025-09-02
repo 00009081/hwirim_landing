@@ -178,8 +178,8 @@ body{
     width: 100%;
 }
 a.more_link:hover{
-    background-color: #142946;
-    color: #fff;
+    background-color: #fff;
+    color: #142946;
 }
 
 /*mobile_~767px*/
@@ -1665,3 +1665,4 @@ ul.research_radius_image li img{
         color: #ffffff36;
     }
 }
+
