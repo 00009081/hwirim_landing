@@ -179,6 +179,7 @@ body{
 }
 a.more_link:hover{
     background-color: #fff;
+    border: 1px solid #142946;
     color: #142946;
 }
 
@@ -1665,4 +1666,5 @@ ul.research_radius_image li img{
         color: #ffffff36;
     }
 }
+
 
